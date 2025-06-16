@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/eyob333/eyob33/refs/heads/main/image%20(1).webp"  />
+<img align="left" height="200" src="https://raw.githubusercontent.com/eyob333/eyob33/refs/heads/main/image%20(1).webp"  />
 
 
 ###
@@ -26,6 +26,6 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eyob333.eyob333&"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=eyob333.eyob333&"  />
 
 
